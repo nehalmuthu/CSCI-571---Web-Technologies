@@ -7,7 +7,7 @@
 ## Website Demo
 https://www.youtube.com/watch?v=PC61gaW31Mw
 
-## Mobile Demo
+## Mobile Demo (to make the website dynamic to different screen sizes)
 https://www.youtube.com/watch?v=sRDpaiiqDwI
 
 ## Android Demo
